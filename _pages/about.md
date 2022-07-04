@@ -21,7 +21,7 @@ This is the front page of a website that is powered by the [academicpages templa
 ## News
 
 ### 2022
-- July: ```diff New ``` Three papers are accepted to ECCV 2022!!!
+- July: ```🔥NEW``` Three papers are accepted to ECCV 2022!!!
 - June: [One paper](https://arxiv.org/abs/2206.09599) regarding the robustness of SNN on memristive crossbar is accepted to ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2022
 - Feb: [One paper](https://aaai-2022.virtualchair.net/poster_aaai1671) regarding privacy-preserving SNN is accepted to AAAI 2022. 
 - Jan: [One paper](https://ieeexplore.ieee.org/abstract/document/9747906) regarding analysis on SNN coding schemes is accepted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022. 
