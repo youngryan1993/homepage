@@ -15,14 +15,14 @@ Also, I look into various practical machine learning tasks, such as distributed 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-**[Important] I am looking for research internship (2023 summer) on Algorithm/Hardware co-design for Energy-efficient Neural Networks or Neuromorphic Computing!**
+**[Important] I am looking for a research internship for 2023 summer on Algorithm/Hardware co-design for Energy-efficient Neural Networks or Neuromorphic Computing!**
 
 
 ## News
 
 ### 2022
-
-- Sep: [One paper](https://arxiv.org/abs/2206.09599) regarding the robustness of SNN on memristive crossbar is accepted to ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2022
+- July: ```diff New ``` Three papers are accepted to ECCV 2022!!!
+- June: [One paper](https://arxiv.org/abs/2206.09599) regarding the robustness of SNN on memristive crossbar is accepted to ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2022
 - Feb: [One paper](https://aaai-2022.virtualchair.net/poster_aaai1671) regarding privacy-preserving SNN is accepted to AAAI 2022. 
 - Jan: [One paper](https://ieeexplore.ieee.org/abstract/document/9747906) regarding analysis on SNN coding schemes is accepted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022. 
 
