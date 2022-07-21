@@ -17,6 +17,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **[Important] I am looking for a research internship for 2023 summer on Algorithm/Hardware co-design for Energy-efficient Neural Networks or Neuromorphic Computing!**
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoungryan1993.github.io%2Fhomepage%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ## News
 
