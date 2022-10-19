@@ -23,6 +23,8 @@ This is the front page of a website that is powered by the [academicpages templa
 ## News
 
 ### 2022
+- Oct: ```🔥NEW``` SNN Segmentation work is accepted to ” Neuromorphic Computing and Engineering, IOP Publishing (2022).
+- Oct: ```🔥NEW``` A paper regarding SNN training accelerator is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022).
 - July: ```🔥NEW``` We got the [best paper awards](https://arxiv.org/abs/2206.09599) in ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED) 2022!!!!!
 - July: ```🔥NEW``` Three papers are accepted to ECCV 2022!!! 1 oral, 2 posters
 - June: [One paper](https://arxiv.org/abs/2206.09599) regarding the robustness of SNN on memristive crossbar is accepted to ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2022
