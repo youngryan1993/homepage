@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in Electircal Engineering Department at Yale University. I am the member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl) .
+I am a third-year Ph.D. candidate in Electircal Engineering Department at Yale University. I am the member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl) .
 My research aims to build more bio-inspired machine intelligence where the system can achieve both energy-efficiency and robust performance. 
 I develop the learning algorithms which facilitate binary communication (like the human brain) in AI systems, while having  hardware-friendly features.
 Also, I look into various practical machine learning tasks, such as distributed learning and domain adaptation, enabling learning systems to tackle real-world scenarios.
@@ -23,6 +23,7 @@ This is the front page of a website that is powered by the [academicpages templa
 ## News
 
 ### 2022
+- Nov: ```🔥NEW``` A paper regarding Fisher Information Analysis on SNNs is accepted to AAAI2023.
 - Oct: ```🔥NEW``` SNN Segmentation work is accepted to ” Neuromorphic Computing and Engineering, IOP Publishing (2022).
 - Oct: ```🔥NEW``` A paper regarding SNN training accelerator is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022).
 - July: ```🔥NEW``` We got the [best paper awards](https://arxiv.org/abs/2206.09599) in ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED) 2022!!!!!
