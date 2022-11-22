@@ -24,6 +24,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ### 2022
 - Nov: ```🔥NEW``` A paper regarding Fisher Information Analysis on SNNs is accepted to AAAI2023.
+- Nov: ```🔥NEW``` A paper regarding Human Action Recognition (HAR) using SNNs is accepted to NeurIPS2022 Workshop.
 - Oct: ```🔥NEW``` SNN Segmentation work is accepted to ” Neuromorphic Computing and Engineering, IOP Publishing (2022).
 - Oct: ```🔥NEW``` A paper regarding SNN training accelerator is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022).
 - July: ```🔥NEW``` We got the [best paper awards](https://arxiv.org/abs/2206.09599) in ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED) 2022!!!!!
