@@ -15,20 +15,26 @@ Also, I look into various practical machine learning tasks, such as distributed 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-**[Important] I am looking for a research internship for 2023 summer on Machine Learning (for Energy-efficiency) or Neuromorphic Computing!**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoungryan1993.github.io%2Fhomepage%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ## News
 
+
+### 2023
+- May: ```🔥NEW``` I am excited to announce that I will be joining Amazon (AWS AI) as a summer intern!
+- May: ```🔥NEW``` A paper regarding Representation Similiary between ANNs and SNNs is accepted to Transactions on Machine Learning Research.
+- March: ```🔥NEW``` A paper regarding Neural Architecture Search (NAS) for Crossbar is accepted to DAC2023.
+- Feb: ```🔥NEW``` A paper regarding Fisher Information Analysis on SNNs is accepted to AAAI2023.
+
+
 ### 2022
-- Nov: ```🔥NEW``` A paper regarding Fisher Information Analysis on SNNs is accepted to AAAI2023.
-- Nov: ```🔥NEW``` A paper regarding Human Action Recognition (HAR) using SNNs is accepted to NeurIPS2022 Workshop.
-- Oct: ```🔥NEW``` SNN Segmentation work is accepted to ” Neuromorphic Computing and Engineering, IOP Publishing (2022).
-- Oct: ```🔥NEW``` A paper regarding SNN training accelerator is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022).
-- July: ```🔥NEW``` We got the [best paper awards](https://arxiv.org/abs/2206.09599) in ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED) 2022!!!!!
-- July: ```🔥NEW``` Three papers are accepted to ECCV 2022!!! 1 oral, 2 posters
+- Nov:  A paper regarding Human Action Recognition (HAR) using SNNs is accepted to NeurIPS2022 Workshop.
+- Oct:  SNN Segmentation work is accepted to ” Neuromorphic Computing and Engineering, IOP Publishing (2022).
+- Oct:  A paper regarding SNN training accelerator is accepted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022).
+- July:  We got the [best paper awards](https://arxiv.org/abs/2206.09599) in ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED) 2022!!!!!
+- July: Three papers are accepted to ECCV 2022!!! 1 oral, 2 posters
 - June: [One paper](https://arxiv.org/abs/2206.09599) regarding the robustness of SNN on memristive crossbar is accepted to ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2022
 - Feb: [One paper](https://aaai-2022.virtualchair.net/poster_aaai1671) regarding privacy-preserving SNN is accepted to AAAI 2022. 
 - Jan: [One paper](https://ieeexplore.ieee.org/abstract/document/9747906) regarding analysis on SNN coding schemes is accepted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2022. 
