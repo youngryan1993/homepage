@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. candidate in Electircal Engineering Department at Yale University. I am the member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl) .
+I am a fourth-year Ph.D. candidate in Electircal Engineering Department at Yale University. I am the member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl) .
 My research aims to build more bio-inspired machine intelligence where the system can achieve both energy-efficiency and robust performance. 
 I develop the learning algorithms which facilitate binary communication (like the human brain) in AI systems, while having  hardware-friendly features.
-Also, I look into various practical machine learning tasks, such as distributed learning and domain adaptation, enabling learning systems to tackle real-world scenarios.
+Also, I look into various practical machine learning tasks, such as continual learning, distributed learning and domain adaptation, enabling learning systems to tackle real-world scenarios.
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
@@ -25,8 +25,8 @@ This is the front page of a website that is powered by the [academicpages templa
 ### 2023
 - May: ```🔥NEW``` I am excited to announce that I will be joining Amazon (AWS AI) as a summer intern!
 - May: ```🔥NEW``` A paper regarding Representation Similiary between ANNs and SNNs is accepted to Transactions on Machine Learning Research.
-- March: ```🔥NEW``` A paper regarding Neural Architecture Search (NAS) for Crossbar is accepted to DAC2023.
-- Feb: ```🔥NEW``` A paper regarding Fisher Information Analysis on SNNs is accepted to AAAI2023.
+- March: A paper regarding Neural Architecture Search (NAS) for Crossbar is accepted to DAC2023.
+- Feb:  A paper regarding Fisher Information Analysis on SNNs is accepted to AAAI2023.
 
 
 ### 2022
