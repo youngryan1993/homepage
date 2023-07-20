@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in Electircal Engineering Department at Yale University. I am the member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ&hl) .
-My research aims to build more bio-inspired machine intelligence where the system can achieve both energy-efficiency and robust performance. 
-I develop the learning algorithms which facilitate binary communication (like the human brain) in AI systems, while having  hardware-friendly features.
+I am a fourth-year Ph.D. candidate in Electrical Engineering Department at Yale University. I am a member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ) .
+My research aims to build more bio-inspired machine intelligence where the system can achieve both energy efficiency and robust performance. 
+I develop learning algorithms that facilitate binary communication (like the human brain) in AI systems while having  hardware-friendly features.
 Also, I look into various practical machine learning tasks, such as continual learning, distributed learning and domain adaptation, enabling learning systems to tackle real-world scenarios.
 
 <!-- 
@@ -17,6 +17,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoungryan1993.github.io%2Fhomepage%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+```🔥``` I am looking for a full-time research scientist position for the next summer (2024). Please send me an email (youngeun.kim@yale.edu) if you are interested in my research. I have around 6 years of experience in machine learning, computer vision, and broad background in circuits and systems.
 
 
 ## News
