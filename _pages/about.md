@@ -18,15 +18,20 @@ This is the front page of a website that is powered by the [academicpages templa
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoungryan1993.github.io%2Fhomepage%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-```🔥``` I am looking for a full-time research scientist/engineer position. Please send me an email (youngeun.kim@yale.edu) if you are interested in my research. I have around 6 years of experience in machine learning, computer vision, and broad background in circuits and systems.
+
+<!-- 
+```🔥``` I am looking for a full-time research scientist/engineer position. Please send me an email (youngeun.kim@yale.edu) if you are interested in my research. I have around 6 years of experience in machine learning, computer vision, and broad background in circuits and systems. -->
 
 
 ## News
 
+### 2024
+- May: ```🔥NEW``` I will be joining Meta Reality Lab as a Machine Learning Research Scientist!
 
 ### 2023
-- May: ```🔥NEW``` I am excited to announce that I will be joining Amazon (AWS AI) as a summer intern!
-- May: ```🔥NEW``` A paper regarding Representation Similiary between ANNs and SNNs is accepted to Transactions on Machine Learning Research.
+- Dec:  A paper regarding Efficient Inference on SNNs is accepted to NeurIPS2023.
+- May: I am excited to announce that I will be joining Amazon (AWS AI) as a summer intern.
+- May: A paper regarding Representation Similiary between ANNs and SNNs is accepted to Transactions on Machine Learning Research.
 - March: A paper regarding Neural Architecture Search (NAS) for Crossbar is accepted to DAC2023.
 - Feb:  A paper regarding Fisher Information Analysis on SNNs is accepted to AAAI2023.
 
