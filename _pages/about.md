@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in Electrical Engineering Department at Yale University. I am a member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ) .
-My research aims to build more bio-inspired machine intelligence where the system can achieve both energy efficiency and robust performance. 
+I am a fourth-year Ph.D. candidate in the Electrical Engineering Department at Yale University. I am a member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ). My research aims to build more bio-inspired machine intelligence where the system can achieve both energy efficiency and robust performance. 
 I develop learning algorithms that facilitate binary communication (like the human brain) in AI systems while having  hardware-friendly features.
 Also, I look into various practical machine learning tasks, such as continual learning, distributed learning and domain adaptation, enabling learning systems to tackle real-world scenarios.
 
@@ -26,7 +25,8 @@ This is the front page of a website that is powered by the [academicpages templa
 ## News
 
 ### 2024
-- May: ```🔥NEW``` I will be joining Meta Reality Lab as a Machine Learning Research Scientist!
+- May: ```🔥NEW``` I will join Meta Reality Lab as a Machine Learning Research Scientist!
+- May: ```🔥NEW``` I successfully defended my thesis - Algorithmic Approaches for Empowering Spike-based Machine Intelligence.
 
 ### 2023
 - Dec:  A paper regarding Efficient Inference on SNNs is accepted to NeurIPS2023.
