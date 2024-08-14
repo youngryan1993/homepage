@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in the Electrical Engineering Department at Yale University. I am a member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ). My research aims to build more bio-inspired machine intelligence where the system can achieve both energy efficiency and robust performance. 
-I develop learning algorithms that facilitate binary communication (like the human brain) in AI systems while having  hardware-friendly features.
-Also, I look into various practical machine learning tasks, such as continual learning, distributed learning and domain adaptation, enabling learning systems to tackle real-world scenarios.
+I am a Research Scientist at Meta Reality Labs, developing a neural network system to interpret EMG signals for future human-computer interaction. I earned a Ph.D. degree in Electrical & Computer Engineering from Yale University in 2024, advised by Prof. [Priyadarshini Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ). I also earned my B.S. in Electronic Engineering from Sogang University (2018) and M.S. in Electrical Engineering from the Korea Advanced Institute of Science and Technology (KAIST) (2020). I did AI research internships at Kakao Corporation, SK Telecom T-brain, and Samsung Advanced Institute of Technology (SAIT) in South Korea, as well as an Applied Scientist internship at Amazon AWS AI in Seattle, WA. My research interests include developing novel algorithms for efficient machine learning, computer vision, and algorithm-hardware co-design.
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
@@ -25,7 +23,8 @@ This is the front page of a website that is powered by the [academicpages templa
 ## News
 
 ### 2024
-- May: ```🔥NEW``` I will join Meta Reality Lab as a Machine Learning Research Scientist!
+- July: ```🔥NEW``` Three papers are accepted to ECCV 2024!!
+- May: ```🔥NEW``` I joined Meta Reality Lab as a Machine Learning Research Scientist
 - May: ```🔥NEW``` I successfully defended my thesis - Algorithmic Approaches for Empowering Spike-based Machine Intelligence.
 
 ### 2023
