@@ -13,7 +13,7 @@ I am a Research Scientist at Meta Reality Labs, developing a neural network syst
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoungryan1993.github.io%2Fhomepage%2F&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitor Count](https://shields.io/endpoint?url=https://counterapi.com/api/counter/your-unique-key)
 
 
 <!-- 
@@ -23,9 +23,12 @@ This is the front page of a website that is powered by the [academicpages templa
 ## News
 
 ### 2024
-- July: ```🔥NEW``` Three papers are accepted to ECCV 2024!!
-- May: ```🔥NEW``` I joined Meta Reality Lab as a Machine Learning Research Scientist
-- May: ```🔥NEW``` I successfully defended my thesis - Algorithmic Approaches for Empowering Spike-based Machine Intelligence.
+- July: ```🔥NEW``` One paper is accepted to CVPR 2025
+
+### 2024
+- July: Three papers are accepted to ECCV 2024!!
+- May: I joined Meta Reality Lab as a Machine Learning Research Scientist
+- May: I successfully defended my thesis - Algorithmic Approaches for Empowering Spike-based Machine Intelligence.
 
 ### 2023
 - Dec:  A paper regarding Efficient Inference on SNNs is accepted to NeurIPS2023.
