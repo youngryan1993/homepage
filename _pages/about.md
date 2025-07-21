@@ -24,9 +24,7 @@ This is the front page of a website that is powered by the [academicpages templa
 ### 2025
 - July: ```🔥NEW``` I joined Amazon AWS AI Labs as an Applied Scientist
 - June: ```🔥NEW``` One paper is accepted to ICCV 2025
-  
-### 2024
-- July: One paper is accepted to CVPR 2025
+- March: One paper is accepted to CVPR 2025
 
 ### 2024
 - July: Three papers are accepted to ECCV 2024
