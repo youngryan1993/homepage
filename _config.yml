@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Youngeun Kim"
 title_separator          : "-"
 name                     : &name "Youngeun Kim"
-description              : &description "ML Research Scientist at Meta Reality Labs"
+description              : &description "Applied Scientist at Amazon AWS AI Labs"
 url                      : https://youngryan1993.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "youngryan1993.github.io/homepage/"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Youngeun Kim"
   avatar           : "youngeun_profile.jpeg"
-  bio              : "ML Research Scientist at Meta / Yale ECE Ph.D."
-  location         : "New Haven, CT, USA"
+  bio              : "Applied Scientist at Amazon AWS AI Labs / Yale ECE Ph.D."
+  location         : "Bellevue, WA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bh5Ve0EAAAAJ&hl"
-  email            : "youngeun.kim@yale.edu"
+  email            : "youngeun.ryan.kim@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
